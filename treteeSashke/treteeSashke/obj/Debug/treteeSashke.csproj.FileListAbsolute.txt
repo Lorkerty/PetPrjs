@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\treteeSashke\treteeSashke\bin\Debug\treteeSashke.exe.config
+C:\Users\Hp\source\repos\treteeSashke\treteeSashke\bin\Debug\treteeSashke.exe
+C:\Users\Hp\source\repos\treteeSashke\treteeSashke\bin\Debug\treteeSashke.pdb
+C:\Users\Hp\source\repos\treteeSashke\treteeSashke\obj\Debug\treteeSashke.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\treteeSashke\treteeSashke\obj\Debug\treteeSashke.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\treteeSashke\treteeSashke\obj\Debug\treteeSashke.exe
+C:\Users\Hp\source\repos\treteeSashke\treteeSashke\obj\Debug\treteeSashke.pdb
